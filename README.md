@@ -1,7 +1,13 @@
-<h1>Como estimular a liderança feminina de mães nas empresas?</h1>
+<h1>🚀Projeto Lidera: Incentivando a Liderança de Mães nas Empresas🚀</h1>
 
 
-<p> Nós, da turma UX/UI - T16, Grupo 11, Barbilândia, da Cubos Academy, estamos dedicados a fortalecer a presença de mães na liderança das empresas brasileiras. 
-Nosso projeto visa identificar estratégias para promover a inclusão e igualdade de gênero. Estamos realizando pesquisas e desenvolvendo iniciativas práticas para apoiar as mães em suas carreiras profissionais.
-Em breve compartilharemos os resultados, estamos na fase inicial do projeto e temos um longo caminho</p>
+<p> Durante 6 meses na turma UX/UI T16 da Cubos Academy, Nós do Grupo 11 - Barbilândia lideramos o projeto Lidera, focado em desenvolver uma plataforma inovadora para incentivar a liderança feminina, com ênfase na maternidade. Realizamos pesquisas aprofundadas, utilizando ferramentas como Miro, Figma e Google Forms, para entender as necessidades específicas das mães aspirantes a cargos de liderança.
+
+Com uma equipe dedicada de designers, desenvolvemos o protótipo de alta fidelidade do Lidera, oferecendo funcionalidades essenciais como networking, comunidade e suporte para equilibrar carreira e maternidade. Nosso objetivo é promover um ambiente inclusivo e suportado para todas as mulheres. <p>
+
+Confira o projeto completo:
+
+ * Medium:
+ * Behance:
+
 
