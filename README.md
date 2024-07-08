@@ -7,7 +7,7 @@ Com uma equipe dedicada de designers, desenvolvemos o protótipo de alta fidelid
 
 Confira o projeto completo:
 
- * Medium:
+ * Medium: https://medium.com/@thalitaosb/como-incentivar-a-lideran%C3%A7a-de-m%C3%A3es-nas-empresas-um-estudo-de-caso-em-ux-ui-design-28b46f3eab40
  * Behance:
 
 
